@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'OlgaCTTNormalv1.1';
+    src: url('olgactt.eot');
+    src: url('olgactt.eot') format('embedded-opentype'),
+         url('olgactt.woff') format('woff'),
+         url('olgactt.ttf') format('truetype'),
+         url('olgactt.svg#OlgaCTTNormal') format('svg');
+}
